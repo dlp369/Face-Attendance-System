@@ -18,11 +18,14 @@ video2 is created from images from the internet.
 ### Video1 
 
 #### Input - Video1
-[![Video1]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
+[![Video1_Input]          // Title
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video1_input_thumbnail.jpg)] // Thumbnail
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video1_input.mp4)    // Video Link
 
 #### Output - Video1
+[![Video1_Output]          // Title
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video1_output_thumbnail.png)] // Thumbnail
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video1_output.avi)    // Video Link
 
 #### Output - 29-05-2024 - video1_output.csv (screenshot)
 ![screenshot1](https://github.com/dlp369/Face-Attendance-System/blob/main/29-05-2024%20-%20video1_output.csv%20(screenshot).png)
@@ -32,9 +35,14 @@ video2 is created from images from the internet.
 ### Video2 
 
 #### Input - Video2
-
+[![Video2_Input]          // Title
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video2_input_thumbnail.jpg)] // Thumbnail
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video2_input.mp4)    // Video Link
 
 #### Output - Video2
+[![Video2_Output]          // Title
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video2_output_thumbnail.png)] // Thumbnail
+(https://github.com/dlp369/Face-Attendance-System/blob/main/video2_output.avi)    // Video Link
 
 #### Output - 29-05-2024 - video2_output.csv (screenshot1)
 ![screenshot2](https://github.com/dlp369/Face-Attendance-System/blob/main/29-05-2024%20-%20video2_output.csv%20(screenshot1).png)
