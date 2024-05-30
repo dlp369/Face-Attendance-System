@@ -22,6 +22,9 @@ video2 is created from images from the internet.
 ### Video1 
 
 #### Input - Video1 - https://github.com/dlp369/Face-Attendance-System/blob/main/video1_input.mp4
+<video width="320" height="240" controls>
+  <source src="https://github.com/dlp369/Face-Attendance-System/blob/main/video1_input.mp4" type="video/mp4">
+</video>
 
 #### Output - Video1 - https://github.com/dlp369/Face-Attendance-System/blob/main/video1_output.avi
 
